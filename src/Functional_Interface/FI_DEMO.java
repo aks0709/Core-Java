@@ -13,6 +13,8 @@ class B implements A{
 }
 
 
+
+
 public class FI_DEMO {
     public static void main(String[] args) {
         A obj=()->{
